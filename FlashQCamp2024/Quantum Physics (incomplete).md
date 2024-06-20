@@ -4,9 +4,7 @@ The qubit (standing in for quantum bit) is the simplest case because it is a qua
 
 It is mathematically described by a vector, usually denoted by a _"ket"_ $\ket{\psi}$, that lives in
 
-$$
-\\{\ket{\psi} ∈ ℂ^2 }    
-$$
+$$\{\ket{\psi} \in \mathbb{C}^2 \}$$
 
 >💡 ket notation $\ket{ }$ $\equiv$ vector
 > - a notation for linear algebra and linear operators on complex vector spaces together with their dual space both in the finite-dimensional and infinite-dimensional case.
