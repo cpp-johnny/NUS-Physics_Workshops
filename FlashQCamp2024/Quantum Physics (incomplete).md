@@ -4,7 +4,7 @@ The qubit (standing in for quantum bit) is the simplest case because it is a qua
 
 It is mathematically described by a vector, usually denoted by a _"ket"_ $\ket{\psi}$, that lives in
 
-$$\{\ket{\psi} \in \mathbb{C}^2 \}$$
+$$\ket{\psi} \in \mathbb{C}^2 $$
 
 >💡 ket notation $\ket{ }$ $\equiv$ vector
 > - a notation for linear algebra and linear operators on complex vector spaces together with their dual space both in the finite-dimensional and infinite-dimensional case.
@@ -20,15 +20,12 @@ $$
 
 This two-level nature of qubits brings us to the computational basis ($\ket{0}, \ket{1}$)
 
-$$
-\braket{0|0} = 1
-$$
-$$
-\braket{1|1} = 1
-$$
-$$
-\braket{0|1} = 0
-$$
+$$\braket{0|0} = 1$$
+
+$$\braket{1|1} = 1$$
+
+$$\braket{0|1} = 0$$
+
 Note: $\ket{0}, \ket{1}$ is just a notation, we could also use $\ket{g}, \ket{e}$ or $\ket{\uparrow}, \ket{\downarrow}$ or $\ket{一}, \ket{零}$ etc...
 
 These are the two possible outcomes if we make a measurement “along the 0/1 basis”. A qubit can only give one of two outcomes specific to that kind of measurement. Note that every ket (in a complex space like ($ℂ^2$)) can be represented by vectors. For instance |0i and |1i can be represented as vectors as such:
