@@ -24,11 +24,12 @@ This microscopic mechanism was proposed by Bardeen, Cooper and Schrieffer in 195
 For a single quantum particle:
 
 $$\int \psi^*_{e} \psi_{e} = 1$$
+
 This expression is a normalization condition for the wavefunction $\psi_{e}$. It ensures that the total probability of finding the electron somewhere in space (or space-time) sums to 1. (Normalisation) In other words, it guarantees that the electron exists somewhere with certainty.
 
 For superconductor as a whole:
 
-$$\int \psi^*_{sc} \psi_{sc} = N_{Cp} = \frac{N_{e}}{2}$$
+$\int \psi^*_{sc} \psi_{sc} = N_{Cp} = \frac{N_{e}}{2}$
 
 where the equation $N_{Cp} = \frac{N_{e}}{2}$​​ suggests that in the superconducting state, each Cooper pair effectively contributes half of an electron to the total count $N_{e}$. This relationship reflects how Cooper pairs are composed of two electrons.
 # Properties of Superconductors
@@ -48,7 +49,7 @@ A strong magnetic field will break apart the Cooper pairs
 	- Al, Nb, Ta, Hg etc
 2. Type II (Higher $B_{c}$ and $T_{c}$)
 	- Mixture of normal and superconducting
-	- NbTi, YBCO, NB$_{3}$Sn etc
+	- NbTi, YBCO, NB<sub>3</sub>Sn etc
 
 # The Josephson Junction
 A Josephson junction is a quantum mechanical device made up of two superconducting materials separated by a very thin insulating layer. This configuration allows for some unique and fascinating electrical properties, primarily due to the phenomenon of quantum tunnelling. 
